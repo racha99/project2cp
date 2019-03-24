@@ -1,0 +1,374 @@
+.jumbotron{
+	background-color: #355CCC;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: #ecf0f1;
+	padding-bottom: 100px;
+}
+.mynavbar{
+	background-color: #FE9000 ;
+	color: #ecf0f1;
+}
+.home{
+	padding-bottom: 60px;
+}
+.myh1
+{
+	font-weight: 800;
+	text-align: center;
+}
+.myh2
+{
+	font-weight: 600;
+	text-align: center;
+}
+.myh11{
+	font-weight: 800;
+	padding-left: 100px;
+	color: #FFFFFF;
+}
+.img-border
+{
+	padding-left: 50px;
+}
+.mypour
+{
+	background-color: #48dbfb;
+}
+.eco{
+	padding-left: 135px;
+	padding-top: 15px;
+	font-weight: 800;
+	color: #FFFFFF;
+}
+.eco2
+{
+	padding-left: 78px;
+	color: #FFFFFF;
+}
+.colla
+{
+	padding-left: 116px;
+	padding-top: 15px;
+	font-weight: 800;
+	color: #FFFFFF;
+}
+.colla2
+{
+	padding-left: 75px;
+	color: #FFFFFF;
+}
+.simple
+{
+	padding-left: 166px;
+	padding-top: 15px;
+	font-weight: 800;
+	color: #FFFFFF;
+}
+.simple2
+{
+	padding-left: 84px;
+	color: #FFFFFF;
+}
+.body {
+	background-size: 750px 700px;
+	background-repeat: no-repeat;
+	background-image: url("");
+ }
+ 
+ *[role="form"] {
+	max-width: 530px;
+	padding: 20px;
+	margin: 0 auto;
+	margin-right: -60px;
+	margin-top: 40px;
+	background-repeat: no-repeat;
+	background-size: 750px 700px;
+	background-color: #355CCC;
+	border-radius: 0.3em;
+ }
+ 
+ *[role="form"] h2 { 
+	font-family: 'URW Chancery L' , cursive;
+	font-size: 50px;
+	font-weight: 600;
+	text-shadow:0 2px 0 #0c0c0c, 0 -2px 0 #f3efef;
+	
+	
+	color: #ff471a;
+	margin-top: 5%;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+ }
+ .btn-yass{
+	 background-color:#ff471a;
+	color: white;
+	font-family: 'URW Chancery L' , cursive;
+ }
+ .img{
+	 height: 100px;
+	 width: 1600px;
+	 
+ }
+ .cont-1{
+	background-color:#355CCC;
+ }
+ .myh111
+ {
+	color: #355CCC; 
+	font-weight: 800;
+	text-align: center;
+	padding-top: 50px;
+ }
+ .myText
+ {
+	 text-align: center;
+ }
+ .myphoto{
+	padding-left: 100px;
+ }
+ .myText2{
+	padding-top: 40px;
+	font-weight: 800;
+	color: #355CCC;
+	text-align: center;
+ }
+ .myFlash{
+	padding-left: 100px;
+	padding-top: 75px;
+ }
+ #fin
+ {
+	 background-color: #355CCC ;
+ }
+ .myText3
+ {
+	color: #FFFFFF;
+	text-align: center; 
+ }
+ .mybotton
+ {
+	 background-color:#f39c12;
+	 padding-left: 100px;
+	 padding-right: 100px;
+ }
+ .mybotton2
+ {
+	padding-left: 415px;
+	padding-top: 27px;
+ }
+.myinscription
+{
+	padding-bottom: 20px;
+}
+.myh22
+{
+	color: white;
+	font-weight: 600;
+	padding-top: 20px;
+	text-align: center;
+}
+.myh222
+{
+	font-weight: 800;
+	padding-top: 20px;
+	text-align: center;
+	color: #355CCC;
+}
+#price
+{
+	background-image: url("../images/header-img.jpg");
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.myh2222
+{
+	font-weight: 800;
+	text-align: center;
+	color: black;
+}
+.insc{
+	text-align: center;
+	padding-top: 10px;
+}
+#examples
+{
+	background-color: #FFFFFF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.myh1111
+ {
+	color: #355CCC; 
+	font-weight: 800;
+	text-align: center;
+ }
+ .myh11111
+ {
+	color: #355CCC ; 
+	font-weight: 1200;
+	text-align: center;; 
+
+ }
+ .myphoto
+ {
+	 background-image: ("../images/Algie.jpg");
+	 background-repeat: none;
+ }
+ #slider, .wrap, .slide-content
+ {
+	 margin: 0;
+	 padding: 0;
+	 font-family: Arial, Helvetica, sans-serif;
+	 width: 100%;
+	 height: 70vh;
+	 overflow-x: hidden;
+ }
+ .wrap{position: relative}
+ .slide{
+	 background-size: cover;
+	 background-position: center;
+	 background-repeat: no-repeat;
+ }
+ .slide1{background-image: url("../images/Alger.jpg")}
+ .slide2{background-image: url("../images/consta.jpg")}
+ .slide3{background-image: url("../images/oran.jpg")}
+ .slide4{background-image: url("../images/sud2.jpg")}
+ .slide5{background-image: url("../images/kabyl.jpg")}
+ .slide-content{
+	 display: flex;
+	 flex-direction: column;
+	 justify-content: center;
+	 align-items: center;
+	 text-align: center;
+ }
+ .slide-content span{
+	 font-size: 5rem;
+	 color: #FFFFFF;
+ }
+ .arrow{
+	 cursor: pointer;
+	 position: absolute;
+	 top: 50%;
+	 margin-top: -35px;
+	 width: 0;
+	 height: 0;
+	 border-style: solid;
+ }
+ #arrow-left
+ {
+	 border-width: 30px 40px 30px 0;
+	 border-color: transparent #FFFFFF transparent transparent;
+	 left: 0;
+	 margin-left: 30px;
+ }
+ #arrow-right
+ {
+	 border-width: 30px 0 30px 40px;
+	 border-color: transparent transparent transparent #FFFFFF ;
+	 right: 0;
+	 margin-right: 30px;
+ }
+ .nom{
+	border-color: transparent;text-align: center;
+ }
+ .annonce
+ {
+	border-color: transparent;text-align: center;font-size: 10px;
+ }
+ .affich
+ {
+	font-size:13px;text-align:center;position: relative;top: 15px;
+ }
+ .affich1
+ {
+	font-size:10px;text-align:center;position: relative;top: 15px;	 
+ }
+ .myrow
+ {
+	background-color: gray;
+	margin-right: -21px;
+	margin-left: -21px;
+	padding-bottom: 20px;
+ }
+ .dropdown {
+	position: relative;
+	display: inline-block;
+  }
+  
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+  }
+  
+.dropdown:hover .dropdown-content {
+	display: block;
+  }
+  
+.desc {
+	padding: 15px;
+	text-align: center;
+  }
+.affich3
+{
+	margin-bottom: -20px;
+	border-top-left-radius:20px;
+	border-top-right-radius: 20px; 
+}
+.load
+{
+	animation: slide 2s;
+}
+.slider
+{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 80vh;
+	animation: slide 40s infinite;
+}
+.content
+{
+	color: #FFFFFF;
+	width: 100%;
+	height: 80vh;
+	background-color: rgba(0,0,0,0.5);
+}
+.principal
+{
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	letter-spacing: 5px;
+	text-align: center;
+}
+.principal h1
+{
+	font-size: 70px;
+	margin-bottom: 20px;
+}
+.principal p{
+	font-size: 20px;
+}
+@keyframes slide
+{
+	0%{background-image: url("../images/8.jpeg");}
+	20%{background-image: url("../images/8.jpeg");}
+	20.01%{background-image: url("../images/9.jpg");}
+	40%{background-image: url("../images/9.jpg");}
+	40.01%{background-image: url("../images/10.jpg");}
+	60%{background-image: url("../images/10.jpg");}
+	60.01%{background-image: url("../images/11.jpg");}
+	80%{background-image: url("../images/11.jpg");}
+	80.01%{background-image: url("../images/12.jpeg");}
+	100%{background-image: url("../images/12.jpeg");}
+
+}
